@@ -1,7 +1,7 @@
 {
   "name": "@curtisbelt/github-label-setup",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Apply consistent Github labels across repositories.",
   "files": [
     "labels.json"
