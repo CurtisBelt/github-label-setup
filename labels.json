@@ -1,0 +1,49 @@
+[
+  {
+    "name": "dependencies",
+    "color": "0366d6",
+    "description": "[Dependabot] Pull requests that update a dependency file"
+  },
+  {
+    "name": "security",
+    "color": "ee0701",
+    "description": "[Dependabot] Pull requests that address a security vulnerability"
+  },
+  {
+    "name": "good first issue",
+    "color": "7057ff",
+    "description": "Good for newcomers"
+  },
+  {
+    "name": "help wanted",
+    "color": "008672",
+    "description": "Extra attention is needed"
+  },
+  {
+    "name": "status: abandoned",
+    "color": "eeeeee",
+    "description": "Leave comment with brief explanation.",
+    "aliases": ["wontfix", "invalid"]
+  },
+  {
+    "name": "status: duplicate",
+    "color": "eeeeee",
+    "description": "Leave comment with link to duplicate issue."
+  },
+  {
+    "name": "status: need more info",
+    "color": "f7d931",
+    "description": ""
+  },
+  {
+    "name": "type: bug",
+    "color": "ff8787",
+    "description": "",
+    "aliases": ["bug"]
+  },
+  {
+    "name": "type: enhancement",
+    "color": "6018bf",
+    "description": ""
+  }
+]
